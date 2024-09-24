@@ -1,0 +1,4 @@
+/node_modules/
+.env
+pumpfun_xbot.zip
+test.ts

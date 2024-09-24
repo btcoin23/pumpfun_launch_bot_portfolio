@@ -1,0 +1,25 @@
+{
+  "name": "pumpfun_launcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "author": "btcoin23",
+  "license": "ISC",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@metaplex-foundation/js": "^0.20.1",
+    "@solana/spl-token": "^0.3.9",
+    "@solana/web3.js": "^1.87.6",
+    "axios": "^1.7.7",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.4.4",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.5"
+  }
+}
